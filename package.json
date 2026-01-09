@@ -1,0 +1,27 @@
+{
+  "name": "djs-v14-empty-start",
+  "version": "1.0.0",
+  "description": "Start for discord bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codump/djs-v14-empty-start.git"
+  },
+  "keywords": [
+    "discord.js"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codump/djs-v14-empty-start/issues"
+  },
+  "homepage": "https://github.com/codump/djs-v14-empty-start#readme",
+  "dependencies": {
+    "discord.js": "^14.25.1",
+    "nodemon": "^3.1.11"
+  }
+}
