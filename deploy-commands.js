@@ -28,4 +28,4 @@ const rest = new REST({ version: '10' }).setToken(botToken)
 	} catch (error) {
 		console.error(error)
 	}
-})()
+})();
